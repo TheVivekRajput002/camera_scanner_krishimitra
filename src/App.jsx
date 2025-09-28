@@ -1,12 +1,12 @@
 
 import './App.css'
-import ImageScanner from './components/ImageScanner'
+import ImageScannerUi from './components/ImageScannerUi'
 
 function App() {
 
   return (
     <>
-    <ImageScanner />
+    <ImageScannerUi />
 
     </>
   )
